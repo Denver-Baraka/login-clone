@@ -13,7 +13,7 @@ body {
 	height:80vh;
 	display:flex;
 	align-items: center;
-	padding:8em;
+	padding:2em;
 }
 .container{
 	display:flex;
@@ -21,7 +21,7 @@ body {
 	border:3px solid blac;
 	width:70vh;
 	margin:auto;
-	margin-top:10v;
+	margin-top:5em;
 	justify-content:center;
 	align-items:center;
 	gap:2em;
